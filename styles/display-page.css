@@ -1,0 +1,45 @@
+main {
+  padding: 30px;
+  font-size: 0;
+}
+
+.container {
+ width: 800px;
+ height: 500px;
+ border: 1px black solid;
+ margin-left: auto;
+ margin-right: auto;
+}
+
+.line-1{
+  height: 200px;
+  width: 50%;
+  display: inline-block;
+  font-size: 0;
+}
+
+.line-2{
+  height: 300px;
+  width: 33.3%;
+  display: inline-block;
+  font-size: 0;
+}
+
+.inner-1{
+  background-color: green;
+}
+
+.inner-2{
+  background-color: blue;
+}
+
+.inner-3{
+  background-color: grey;
+}
+
+.inner-4{
+  background-color: black;
+}
+.inner-5{
+  background-color: yellow;
+}
